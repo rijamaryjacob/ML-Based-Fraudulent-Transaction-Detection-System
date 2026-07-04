@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore dataset
+data/raw/creditcard.csv
