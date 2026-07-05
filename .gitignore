@@ -1,6 +1,17 @@
+# Python
 .venv/
 __pycache__/
 *.pyc
 
-# Ignore dataset
-data/raw/creditcard.csv
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+#Dataset
+data/raw/*.csv
